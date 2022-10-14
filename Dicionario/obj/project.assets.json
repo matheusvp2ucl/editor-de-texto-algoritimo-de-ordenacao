@@ -5,10 +5,14 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -48,26 +52,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matheus\\.nuget\\packages\\": {}
+    "/home/matheus/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Programacao\\AED3\\Dicionario\\Dicionario\\Dicionario.csproj",
+      "projectUniqueName": "/home/matheus/Documentos/Faculdade/editor-de-texto-algoritimo-de-ordenacao/Dicionario/Dicionario.csproj",
       "projectName": "Dicionario",
-      "projectPath": "C:\\Users\\Matheus\\Desktop\\Programacao\\AED3\\Dicionario\\Dicionario\\Dicionario.csproj",
-      "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\Desktop\\Programacao\\AED3\\Dicionario\\Dicionario\\obj\\",
+      "projectPath": "/home/matheus/Documentos/Faculdade/editor-de-texto-algoritimo-de-ordenacao/Dicionario/Dicionario.csproj",
+      "packagesPath": "/home/matheus/.nuget/packages/",
+      "outputPath": "/home/matheus/Documentos/Faculdade/editor-de-texto-algoritimo-de-ordenacao/Dicionario/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/matheus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -106,7 +108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
       }
     }
   }

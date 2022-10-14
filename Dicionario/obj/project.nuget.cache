@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xrdH9ADWcpap3cOpEqzzNnihL2KeMaZt/oO9KNPYLKyzLyCTxqet07x3SwPvlYXu0l0wjON/Ol8vYjDb0CRmpQ==",
+  "dgSpecHash": "A7xhvcHsB1pmJ63XYdVL3w36NhqV9lnGvE4l5w8UjZoYkl4ZBBDDu7ypnvQv3Uy+8Kk6PVhubcCVaAjJF3X9ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus\\Desktop\\Programacao\\AED3\\Dicionario\\Dicionario\\Dicionario.csproj",
+  "projectFilePath": "/home/matheus/Documentos/Faculdade/editor-de-texto-algoritimo-de-ordenacao/Dicionario/Dicionario.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Matheus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "/home/matheus/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
